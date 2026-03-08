@@ -30,10 +30,9 @@ This repository covers key architectural components and operational patterns for
 - Enterprise onboarding process for database services
 
 ---
-
+</> Markdown 
 ## Repository Contents
 
-## Repository Structure
 
 docs/
 ├── adb-serverless-service-catalog.pdf
