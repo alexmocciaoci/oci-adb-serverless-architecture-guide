@@ -36,7 +36,7 @@ This repository covers key architectural components and operational patterns for
 
 docs/
 - adb-serverless-service-catalog.pdf
-- adb-client-iam-token-windows.pdf
+- adb_client_iam_db_token.pdf
 
 
 ### ADB-S Technical Service Catalog
