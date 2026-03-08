@@ -30,13 +30,13 @@ This repository covers key architectural components and operational patterns for
 - Enterprise onboarding process for database services
 
 ---
-</> Markdown 
+ 
 ## Repository Contents
 
 
 docs/
-├── adb-serverless-service-catalog.pdf
-├── adb-client-iam-token-windows.pdf
+- adb-serverless-service-catalog.pdf
+- adb-client-iam-token-windows.pdf
 
 
 ### ADB-S Technical Service Catalog
