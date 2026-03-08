@@ -33,6 +33,8 @@ This repository covers key architectural components and operational patterns for
 
 ## Repository Contents
 
+## Repository Structure
+
 docs/
 ├── adb-serverless-service-catalog.pdf
 ├── adb-client-iam-token-windows.pdf
