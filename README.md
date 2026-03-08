@@ -35,7 +35,7 @@ This repository covers key architectural components and operational patterns for
 
 
 docs/
-- adb-serverless-service-catalog.pdf
+- Oracle ADB Serverless Architecture Connectivity and Security Patterns on OCI.pdf
 - adb_client_iam_db_token.pdf
 
 
